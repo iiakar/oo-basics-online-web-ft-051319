@@ -1,17 +1,22 @@
-class Book 
+class Shoe
 
-attr_accessor :author, :page, :genre, :title
+attr_accessor :author, :page_count, :genre, :title 
 
-def initialize(bran)
-  @brand = brand  
+def initialize(brand)
+  @brand = brand 
 end 
 
-def brand
-  @brand
+def brand 
+  @brand 
 end 
 
 def cobble 
-puts "the shoe has been repaired"
+puts "Flipping the page...wow, you read fast!"
 end 
 
 end 
+
+
+
+
+
