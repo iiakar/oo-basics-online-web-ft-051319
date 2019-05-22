@@ -18,7 +18,7 @@ end
 end 
 
 
-shoe = shoe.new
+
 
 
 
