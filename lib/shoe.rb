@@ -6,8 +6,8 @@ def initialize(brand)
   @brand = brand  
 end 
 
-def color 
-  @color 
+def brand
+  @brand
 end 
 
 def cobble 
