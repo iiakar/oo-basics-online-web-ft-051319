@@ -1,8 +1,8 @@
 class Book 
 
-attr_accessor :color, :size, :material, :condition, :title  
+attr_accessor :author, :page, :genre, :title
 
-def initialize(brand)
+def initialize(bran)
   @brand = brand  
 end 
 
