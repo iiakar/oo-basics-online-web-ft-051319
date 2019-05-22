@@ -1,6 +1,6 @@
 class Book 
 
-attr_accessor :author, :page_count, :genre 
+attr_accessor :color, :size, :material, :condition 
 
 def initialize(brand)
   @brand = brand  
@@ -10,7 +10,7 @@ def color
   @color 
 end 
 
-def turn_page 
+def cobble 
 puts "Flipping the page...wow, you read fast!"
 end 
 
