@@ -1,6 +1,6 @@
 class Book 
 
-attr_accessor :color, :size, :material, :condition 
+attr_accessor :color, :size, :material, :condition, :title  
 
 def initialize(brand)
   @brand = brand  
