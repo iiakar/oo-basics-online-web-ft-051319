@@ -18,9 +18,7 @@ end
 end 
 
 
-def cobble
-    def cobble
-    self.condition = "new"	    self.condition = "new"	    
+	    
 
 
 
